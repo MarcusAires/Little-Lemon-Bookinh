@@ -74,23 +74,11 @@ export const Footer = () => {
 
       {/* Social Media Icons */}
       <div style={socialMediaContainerStyle}>
-        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
-          <img src="./images/facebook-icon.svg" alt="Facebook" style={socialMediaIconStyle} />
-        </a>
-        <a href="https://x.com/Satyasootar" target="_blank" rel="noopener noreferrer">
-          <img src="./images/twitter-icon.svg" alt="Twitter" style={socialMediaIconStyle} />
-        </a>
-        <a href="https://www.instagram.com/satyasootar/" target="_blank" rel="noopener noreferrer">
-          <img src="./images/instagram-icon.svg" alt="Instagram" style={socialMediaIconStyle} />
-        </a>
-        <a href="https://www.linkedin.com/in/satyaprangyasootar/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/marcus-paulo-aires-23075b29a/" target="_blank" rel="noopener noreferrer">
           <img src="./images/linkedIn-icon.svg" alt="LinkedIn" style={socialMediaIconStyle} />
         </a>
-        <a href="https://github.com/satyasootar" target="_blank" rel="noopener noreferrer">
-          <img src="./images/github-icon.svg" alt="LinkedIn" style={socialMediaIconStyle} />
-        </a>
-        <a href="https://www.figma.com/design/QZGV5brqRzVV3hZnkHL4lT/Little-Lemon?node-id=7-309&node-type=canvas&t=89EPyrEzIFA9zpAs-0" target="_blank" rel="noopener noreferrer">
-          <img src="./images/figma-icon.svg" alt="LinkedIn" style={socialMediaIconStyle} />
+        <a href="https://github.com/MarcusAires" target="_blank" rel="noopener noreferrer">
+          <img src="./images/github-icon.svg" alt="Github" style={socialMediaIconStyle} />
         </a>
       </div>
 
